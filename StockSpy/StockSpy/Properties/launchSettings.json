@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StockSpy": {
+      "commandName": "Project",
+      "commandLineArgs": "AAPL\r\nalpha"
+    }
+  }
+}
